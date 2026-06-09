@@ -1,5 +1,6 @@
 # GithubFundations
-Repositório do curso para o curso de preparação para a certificação Github Fundations 
+Repositório do curso para o curso de preparação para a certificação Github Fundations: 
+
 https://www.youtube.com/watch?v=ukyGmIXMfEg&amp;list=PLbwy5IKtFeIGBE5UNg57unH6SMzIeqmKp
 
 O exame foi estruturado para validar se você compreende o funcionamento do ecossistema e sabe utilizar as ferramentas de colaboração no dia a dia como desenvolvedor. Ele é dividido em 4 grandes blocos de conhecimento:
